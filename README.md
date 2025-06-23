@@ -62,7 +62,7 @@ Notebooks Jupyter que trazem os sistemas dinâmicos à vida com gráficos. 🎨
 
 1. **Slides**: Baixe os PDFs dos capítulos e mergulhe nos conceitos com exemplos reais.
 2. **Notebooks**: Rode os `.ipynb` no Jupyter Notebook ou Google Colab pra interagir com as simulações.
-3. **Contribua**: Tem ideias? Abre uma issue ou pull request no GitHub!
+3. **Contribua**: Tem ideias? Abre uma issue ou pull request no GitHub! 
 
 ## 📖 Referências
 
