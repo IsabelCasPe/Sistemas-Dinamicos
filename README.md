@@ -12,7 +12,7 @@ Bem-vindo ao meu repositório de **Sistemas Dinâmicos**, onde exploro a beleza 
 
 Uma série de apresentações em LaTeX (Beamer) que cobrem desde os fundamentos até aplicações práticas, com exemplos reais e gráficos incríveis!
 
-1. **Introdução a Sistemas Dinâmicos** ([slides](cap1Introduction.pdf))  
+1. **Introdução a Sistemas Dinâmicos** ([slides](Cap1Introduction.pdf))  
    - Visão geral do campo, com motivação financeira e interdisciplinar.
 2. **Equações Diferenciais Ordinárias (EDOs)** ([slides](cap2EDOs.pdf))  
    - Fundamentos de EDOs com aplicações em crescimento de portfólios.
