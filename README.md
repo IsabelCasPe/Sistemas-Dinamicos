@@ -8,7 +8,7 @@ Bem-vindo ao meu repositório de **Sistemas Dinâmicos**, onde exploro a beleza 
 - Economia e Finanças (ex.: modelos de ciclos econômicos, volatilidade de mercados)
 - Engenharia (ex.: controle de sistemas, circuitos elétricos)
 
-## 📚 Capítulos
+## 📚 Capítulos   
 
 Uma série de apresentações em LaTeX (Beamer) que cobrem desde os fundamentos até aplicações práticas, com exemplos reais e gráficos incríveis!
 
