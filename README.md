@@ -52,11 +52,9 @@ Notebooks Jupyter que trazem os sistemas dinâmicos à vida com gráficos. 🎨
 ## 🎥 Recursos Extras
 
 - **Vídeo: Risco Sistêmico Irã 2025** ([systemic_risk_iran_crisis_v20.mp4](videos/systemic_risk_iran_crisis_v20.mp4))  
-  - Animação explorando risco financeiro em crises globais (em breve no repositório!).
+- Animação explorando risco financeiro em crises globais (em breve no repositório!).
 - **Site Pessoal**: [isabelcaspe.github.io](https://isabelcaspe.github.io/)  
-  - Confira mais projetos e minha jornada na matemática e finanças!
-- **Inspiração**:  
-  > “O caos é onde a matemática encontra a beleza da imprevisibilidade.” – Artur Avila
+- Confira mais projetos e minha jornada na matemática e finanças!
 
 ## 🚀 Como Usar
 
@@ -91,3 +89,13 @@ Este repositório é inspirado no trabalho pioneiro de **Marcelo Viana**, que co
 ## License
 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
 © Copyright 2025 Prof. Ana Isabel C. 
+---
+
+## Inspiration.
+ 
+> “O caos é onde a matemática encontra a beleza da imprevisibilidade.” – Artur Avila
+
+> "Nos redemoinhos da complexidade, os sistemas dinâmicos revelam padrões ocultos @Sistemas-Dinamicos onde o tempo mostra a geometria do caos." ⏳📈🌀🔄📊
+> Copyright © 2025 Prof. Ana Isabel C. 💙
+
+---
