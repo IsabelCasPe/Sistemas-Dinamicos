@@ -90,4 +90,4 @@ Este repositório é inspirado no trabalho pioneiro de **Marcelo Viana**, que co
 ----
 ## License
 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
-Copyright © 2025 Ana Isabel C.  © Ana Isabel 
+© Copyright 2025 Prof. Ana Isabel C. 
