@@ -1,5 +1,5 @@
 
-# 🌌 Sistemas Dinâmicos: Matemática, Finanças e Caos
+## 🌌 Sistemas Dinâmicos: Matemática, Finanças e Caos
 
 Bem-vindo ao meu repositório de **Sistemas Dinâmicos**, onde exploro a beleza da matemática aplicada a finanças, física, biologia e além! 🌟 Aqui, você vai encontrar uma jornada de aprendizado com slides, simulações em Python e visualizações que conectam equações diferenciais, caos e aplicações reais, como volatilidade de mercados (ex.: GOLL4.SA) e epidemias (ex.: COVID-19). Inspirado por grandes como Marcelo V., esse projeto é pra quem quer mergulhar no imprevisível e no *diferencial*! 😎
 
@@ -7,7 +7,7 @@ Bem-vindo ao meu repositório de **Sistemas Dinâmicos**, onde exploro a beleza 
 - Biologia (ex.: crescimento populacional, epidemiologia)
 - Economia e Finanças (ex.: modelos de ciclos econômicos, volatilidade de mercados)
 - Engenharia (ex.: controle de sistemas, circuitos elétricos)
-
+---
 ## 📚 Capítulos   
 
 Uma série de apresentações em LaTeX (Beamer) que cobrem desde os fundamentos até aplicações práticas, com exemplos reais e gráficos incríveis!
