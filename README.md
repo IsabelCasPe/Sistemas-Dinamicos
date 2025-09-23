@@ -118,7 +118,7 @@ Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC B
 ---
 ## Instalação · Installation · Instalación
 ```bash
-# PT/EN/ES: ajuste conforme o projeto
+
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 python main.py
