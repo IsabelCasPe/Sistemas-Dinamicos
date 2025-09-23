@@ -1,3 +1,14 @@
+<!-- HERO -->
+# {Repo Name} · Arte & Ciência em Movimento — Matemática Viva 💎🧮✨
+
+![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-gold)
+![Made with ❤](https://img.shields.io/badge/Made%20with-❤-ff69b4)
+
+**PT · EN · ES** · [Galeria](#galeria--gifs) · [Instalação](#instalação--installation--instalación) · [Licença MIT](#licença--license--licencia)
+
+---
 
 ## 🌌 Sistemas Dinâmicos: Matemática, Finanças e Caos
 
@@ -105,3 +116,9 @@ Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC B
 > Copyright © 2025 Prof. Ana Isabel C. 💙
 
 ---
+## Instalação · Installation · Instalación
+```bash
+# PT/EN/ES: ajuste conforme o projeto
+python -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt
+python main.py
