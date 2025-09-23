@@ -1,5 +1,5 @@
 <!-- HERO -->
-# {Repo Name} · Arte & Ciência em Movimento — Matemática Viva 💎🧮✨
+# Arte & Ciência em Movimento — Matemática Viva 💎🧮✨
 
 ![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
