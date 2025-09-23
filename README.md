@@ -9,7 +9,9 @@ Bem-vindo ao meu repositório de **Sistemas Dinâmicos**, onde exploro a beleza 
 - Engenharia (ex.: controle de sistemas, circuitos elétricos)
 
 ---
-![Mandelbrot Quântico](mandelbrot_quantum_dynamic_presentation.gif)
+![Mandelbrot Set](mandelbrot_quantum_dynamic_presentation.gif)
+## 🌀🔬 Conjunto de Mandelbrot em zoom contínuo: iteramos 𝑧_𝑛+1={𝑧_𝑛}^2 +C e mapeamos cores pelo tempo de escape. O interior permanece limitado; as bordas revelam estruturas sem fim. ♾️
+![Mandelbrot](mandelbrot_dynamic01.gif)
 
 ---
 ## 📚 Capítulos   
