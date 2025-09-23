@@ -7,6 +7,10 @@ Bem-vindo ao meu repositório de **Sistemas Dinâmicos**, onde exploro a beleza 
 - Biologia (ex.: crescimento populacional, epidemiologia)
 - Economia e Finanças (ex.: modelos de ciclos econômicos, volatilidade de mercados)
 - Engenharia (ex.: controle de sistemas, circuitos elétricos)
+
+---
+![Mandelbrot Quântico](mandelbrot_quantum_dynamic_presentation.gif)
+
 ---
 ## 📚 Capítulos   
 
