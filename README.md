@@ -115,9 +115,10 @@ Este repositório é inspirado no trabalho pioneiro de **Marcelo Viana**, que co
 > Este repositório está em constante atualização, conforme novos tópicos e aplicações forem sendo estudados.
 
 ----
-## License
-Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
-© Copyright 2025 Prof. Ana Isabel C. 
+## Galeria de Dinâmicas Fractais 💫 ♾️
+
+![Mandelbrot](Mandelbrotset.png)
+
 ---
 
 ## Inspiration.
