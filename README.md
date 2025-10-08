@@ -135,6 +135,9 @@ Porque, no fim, **a matemática também é feita de encontros e alegria.** 💎�
 
 [📘 Comprar o livro na Amazon](https://www.amazon.com.br/descoberta-dos-n%C3%BAmeros-aventura-matem%C3%A1tica/dp/6584835553)  
 
+## Henri Poincaré 
+- ![Entre lógica e intuição, Poincaré já sabia: é no instante criativo que o infinito sorri. ♾️💎](FresedoPoincare.png)
+  
 ---
   
 
