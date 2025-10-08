@@ -89,10 +89,13 @@ Notebooks Jupyter que trazem os sistemas dinâmicos à vida com gráficos. 🎨
 
 ## 🌟 *Math Moments*  
 **Encontros que inspiram — onde a matemática celebra a vida.**
-![Lançamento “A Descoberta dos Números”](fotocomMarcelo01.jpg)
-![Lançamento “A Descoberta dos Números”](fotocomMarcelo02.jpg)
-![Lançamento “A Descoberta dos Números”](livrodoMarcelo.jpg)
-![Lançamento “A Descoberta dos Números”](dedicatoria.jpg)
+![Marcelo Vianna and Eu 😎](fotocomMarcelo01.jpg)
+
+![Marcelo Vianna and Eu 😎](fotocomMarcelo02.jpeg)
+
+![Lançamento “A Descoberta dos Números”](LivrodoMarcelo.jpeg)
+
+![Lançamento “A Descoberta dos Números”](dedicatoria.jpeg)
 
 📘 **A Descoberta dos Números** — *Marcelo Vianna*  
 > “Os números não são apenas ferramentas: são janelas para entender o universo.”  
