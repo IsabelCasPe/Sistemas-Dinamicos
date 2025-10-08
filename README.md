@@ -7,8 +7,11 @@
   </a>
   <br>
   <sub><em>✨ Recomendado por <strong>@IsabelCasPe</strong> · Applied Mathematics ♾️ 💎</em></sub>
+  <br>
+  <img src="https://img.shields.io/badge/PT-🇧🇷-009B3A?style=flat-square&labelColor=002776">
+  <img src="https://img.shields.io/badge/EN-🇬🇧-1E90FF?style=flat-square&labelColor=001F3F">
+  <img src="https://img.shields.io/badge/ES-🇪🇸-DAA520?style=flat-square&labelColor=AA151B">
 </p>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/⚡_Turning_chaos_into_quant_insights_—_one_model_at_a_time._🌌-1E3A8A?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=0A3D91">
