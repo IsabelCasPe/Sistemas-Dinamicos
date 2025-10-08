@@ -85,6 +85,30 @@ Notebooks Jupyter que trazem os sistemas dinâmicos à vida com gráficos. 🎨
 - **Site Pessoal**: [isabelcaspe.github.io](https://isabelcaspe.github.io/)  
 - Confira mais projetos e minha jornada na matemática e finanças!
 
+---
+
+## 🌟 *Math Moments*  
+**Encontros que inspiram — onde a matemática celebra a vida.**
+![Lançamento “A Descoberta dos Números”](fotocomMarcelo01.jpg)
+![Lançamento “A Descoberta dos Números”](fotocomMarcelo02.jpg)
+![Lançamento “A Descoberta dos Números”](livrodoMarcelo.jpg)
+![Lançamento “A Descoberta dos Números”](dedicatoria.jpg)
+
+📘 **A Descoberta dos Números** — *Marcelo Vianna*  
+> “Os números não são apenas ferramentas: são janelas para entender o universo.”  
+
+✨ No lançamento de *A Descoberta dos Números*, um brinde à beleza da Matemática — entre ideias, sorrisos e taças de champagne 🥂.  
+Foi mais que um evento: **foi a celebração do pensamento em sua forma mais pura.**  
+Porque, no fim, **a matemática também é feita de encontros e alegria.** 💎♾️  
+
+📸 *“Entre fractais e brindes, a ciência também dança.”*  
+> 💙 @IsabelCasPe – *Applied Mathematics & Quantum Vibes* 🌌  
+
+[📘 Comprar o livro na Amazon](https://www.amazon.com.br/descoberta-dos-n%C3%BAmeros-aventura-matem%C3%A1tica/dp/6584835553)  
+
+---
+  
+
 ## 🚀 Como Usar
 
 1. **Slides**: Baixe os PDFs dos capítulos e mergulhe nos conceitos com exemplos reais.
