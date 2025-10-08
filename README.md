@@ -89,6 +89,18 @@ Notebooks Jupyter que trazem os sistemas dinâmicos à vida com gráficos. 🎨
 
 ## 🌟 *Math Moments*  
 
+<p align="center">
+  <a href="https://www.amazon.com.br/descoberta-dos-n%C3%BAmeros-aventura-matem%C3%A1tica/dp/6584835553">
+    <img src="https://img.shields.io/badge/📘_A_Descoberta_dos_Números_-FFD700?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0A3D91&color=DAA520" alt="A Descoberta dos Números – Marcelo Vianna">
+  </a>
+</p>
+
+<p align="center">
+  <em>✨ Recomendado por <strong>@IsabelCasPe</strong> · Applied Mathematics ♾️ 💎</em><br>
+  <sub>“Quando a matemática inspira, até os fractais brindam.” 🥂</sub>
+</p>
+
+
 **Encontros que inspiram — onde a matemática celebra a vida.**
 
 ![Marcelo Vianna and Eu 😎](FotocomMarcelo01.jpg)
