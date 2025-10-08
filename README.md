@@ -88,8 +88,10 @@ Notebooks Jupyter que trazem os sistemas dinâmicos à vida com gráficos. 🎨
 ---
 
 ## 🌟 *Math Moments*  
+
 **Encontros que inspiram — onde a matemática celebra a vida.**
-![Marcelo Vianna and Eu 😎](fotocomMarcelo01.jpg)
+
+![Marcelo Vianna and Eu 😎](FotocomMarcelo01.jpg)
 
 ![Marcelo Vianna and Eu 😎](fotocomMarcelo02.jpeg)
 
