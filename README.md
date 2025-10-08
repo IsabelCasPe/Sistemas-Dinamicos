@@ -2,6 +2,15 @@
 # Arte & Ciência em Movimento — Matemática Viva 💎🧮✨
 
 <p align="center">
+  <a href="https://www.amazon.com.br/descoberta-dos-n%C3%BAmeros-aventura-matem%C3%A1tica/dp/6584835553">
+    <img src="https://img.shields.io/badge/📘_A_Descoberta_dos_Números_-1E3A8A?style=flat-square&logo=bookstack&logoColor=white&labelColor=0A3D91&color=1E90FF" alt="A Descoberta dos Números – Marcelo Vianna">
+  </a>
+  <br>
+  <sub><em>✨ Recomendado por <strong>@IsabelCasPe</strong> · Applied Mathematics ♾️ 💎</em></sub>
+</p>
+
+
+<p align="center">
   <img src="https://img.shields.io/badge/⚡_Turning_chaos_into_quant_insights_—_one_model_at_a_time._🌌-1E3A8A?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=0A3D91">
 </p>
 
