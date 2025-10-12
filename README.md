@@ -46,7 +46,7 @@ Bem-vindo ao meu repositório de **Sistemas Dinâmicos**, onde exploro a beleza 
 
 ## Loki Rei dos Sistemas Dinâmicos: meu Loki ganhou suas esferas quânticas! girando em órbita 🪐 periódica, como um pequeno sistema dinâmico felino. 
 🧶🐈‍⬛👑✨♾️
--[Loki](lokicom3esferas.gif)
+- ![Loki](lokicom3esferas.gif)
 
 ---
 ![Mandelbrot Set](mandelbrot_quantum_dynamic_presentation.gif)
