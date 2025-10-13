@@ -44,7 +44,7 @@ Bem-vindo ao meu repositório de **Sistemas Dinâmicos**, onde exploro a beleza 
 - Engenharia (ex.: controle de sistemas, circuitos elétricos)
 ---
 
-## Loki Rei dos Sistemas Dinâmicos: meu Loki ganhou suas esferas quânticas! girando em órbita 🪐 periódica, como um pequeno sistema dinâmico felino. 
+## Loki Rei dos Sistemas Dinâmicos: meu Loki ganhou suas esferas quânticas! girando em órbita 🪐 periódica, como um pequeno sistema dinâmico felino.  
 🧶🐈‍⬛👑✨♾️
 - ![Loki](lokicom3esferas.gif)
 
