@@ -47,6 +47,10 @@ Bem-vindo ao meu repositório de **Sistemas Dinâmicos**, onde exploro a beleza 
 ## A pseudoesfera só gira assim quando percebe que alguém está realmente prestando atenção.
 Modelos hiperbólicos fazem isso: distorcem espaço, tempo… e às vezes a sanidade de quem assiste. 😏
 - ![Beltram](Beltrami_Perfeito_Lo.gif)
+  
+---
+## Uma pseudosfera girando, um μ estabilizando e um universo que se recusa a colapsar.
+- ![Perelman - Beltrami](Beltrami_PerelmanPseudoesferas01.gif)
 
 ---  
 
