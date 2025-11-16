@@ -44,6 +44,12 @@ Bem-vindo ao meu repositório de **Sistemas Dinâmicos**, onde exploro a beleza 
 - Engenharia (ex.: controle de sistemas, circuitos elétricos)
 ---
 
+## A pseudoesfera só gira assim quando percebe que alguém está realmente prestando atenção.
+Modelos hiperbólicos fazem isso: distorcem espaço, tempo… e às vezes a sanidade de quem assiste. 😏
+- ![Beltram](Beltrami_Perfeito_Lo.gif)
+
+---  
+
 ## Loki Rei dos Sistemas Dinâmicos: meu Loki ganhou suas esferas quânticas! girando em órbita 🪐 periódica, como um pequeno sistema dinâmico felino.  
 🧶🐈‍⬛👑✨♾️
 - ![Loki](lokicom3esferas.gif)
