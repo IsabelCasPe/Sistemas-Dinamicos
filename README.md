@@ -54,6 +54,11 @@ Modelos hiperbólicos fazem isso: distorcem espaço, tempo… e às vezes a sani
 
 ---  
 
+## Evolução dos GIFs: Porque professor que não refaz… não existe. Aqui estão as versões 5 → 7 → 8 esferas. Matemática é iteração. Visualização também. 🌀
+- ![Beltrami_Perelman_7esferas](Beltrami_Perelman_7esferas.gif)
+  
+---
+
 ## Loki Rei dos Sistemas Dinâmicos: meu Loki ganhou suas esferas quânticas! girando em órbita 🪐 periódica, como um pequeno sistema dinâmico felino.  
 🧶🐈‍⬛👑✨♾️
 - ![Loki](lokicom3esferas.gif)
