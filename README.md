@@ -2,7 +2,7 @@
 # Arte & Ciência em Movimento - Matemática Viva 💎🧮✨ 
 
 <p align="center">
-  <a href="https://www.amazon.com.br/descoberta-dos-n%C3%BAmeros-aventura-matem%C3%A1tica/dp/6584835553">
+  <a href="https://www.amazon.com.br/descoberta-dos-n%C3%BAmeros-aventura-matem%C3%A1tica/dp/6584835553"> 
     <img src="https://img.shields.io/badge/📘_A_Descoberta_dos_Números_-1E3A8A?style=flat-square&logo=bookstack&logoColor=white&labelColor=0A3D91&color=1E90FF" alt="A Descoberta dos Números – Marcelo Vianna">
   </a>
   <br>
