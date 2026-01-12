@@ -1,7 +1,7 @@
 <!-- HERO -->
 # Arte & Ciência em Movimento - Matemática Viva 💎🧮✨ 
 
-![Applied Mathematics & Structured Teaching — Happy 2026](https://img.shields.io/badge/Happy-2026-gold)
+![Applied Mathematics & Structured Teaching — Happy 2026](https://img.shields.io/badge/Happy-2026-gold) 
 
 <p align="center">
   <a href="https://www.amazon.com.br/descoberta-dos-n%C3%BAmeros-aventura-matem%C3%A1tica/dp/6584835553"> 
