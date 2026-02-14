@@ -1,7 +1,7 @@
 <!-- HERO -->
 # Arte & Ciência em Movimento - Matemática Viva 💎🧮✨ 
 
-![Applied Mathematics & Structured Teaching — Happy 2026](https://img.shields.io/badge/Happy-2026-gold) 
+![Applied Mathematics & Structured Teaching - Happy 2026](https://img.shields.io/badge/Happy-2026-gold) 
 
 <p align="center">
   <a href="https://www.amazon.com.br/descoberta-dos-n%C3%BAmeros-aventura-matem%C3%A1tica/dp/6584835553"> 
@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <sub><b>@IsabelCasPe</b> 💙✨ — <i>Cosmos em código: ciência que vira arte.</i> 💎♾️</sub>
+  <sub><b>@IsabelCasPe</b> 💙✨ - <i>Cosmos em código: ciência que vira arte.</i> 💎♾️</sub>
 </p>
 
 
@@ -147,7 +147,7 @@ Notebooks Jupyter que trazem os sistemas dinâmicos à vida com gráficos. 🎨
 </p>
 
 
-**Encontros que inspiram — onde a matemática celebra a vida.**
+**Encontros que inspiram - onde a matemática celebra a vida.**
 
 ![Marcelo Vianna and Eu 😎](FotocomMarcelo01.jpg)
 
@@ -157,15 +157,15 @@ Notebooks Jupyter que trazem os sistemas dinâmicos à vida com gráficos. 🎨
 
 ![Lançamento “A Descoberta dos Números”](dedicatoria.jpeg)
 
-📘 **A Descoberta dos Números** — *Marcelo Vianna*  
+📘 **A Descoberta dos Números** - *Marcelo Vianna*  
 > “Os números não são apenas ferramentas: são janelas para entender o universo.”  
 
-✨ No lançamento de *A Descoberta dos Números*, um brinde à beleza da Matemática — entre ideias, sorrisos e taças de champagne 🥂.  
+✨ No lançamento de *A Descoberta dos Números*, um brinde à beleza da Matemática - entre ideias, sorrisos e taças de champagne 🥂.  
 Foi mais que um evento: **foi a celebração do pensamento em sua forma mais pura.**  
 Porque, no fim, **a matemática também é feita de encontros e alegria.** 💎♾️  
 
 📸 *“Entre fractais e brindes, a ciência também dança.”*  
-> 💙 @IsabelCasPe – *Applied Mathematics & Quantum Vibes* 🌌  
+> 💙 @IsabelCasPe - *Applied Mathematics & Quantum Vibes* 🌌  
 
 [📘 Comprar o livro na Amazon](https://www.amazon.com.br/descoberta-dos-n%C3%BAmeros-aventura-matem%C3%A1tica/dp/6584835553)  
 
@@ -213,7 +213,7 @@ Este repositório é inspirado no trabalho pioneiro de **Marcelo Viana**, que co
 
 ## Inspiration.
  
-> “O caos é onde a matemática encontra a beleza da imprevisibilidade.” – Artur Avila
+> “O caos é onde a matemática encontra a beleza da imprevisibilidade.” By: Artur Avila
 
 > "Nos redemoinhos da complexidade, os sistemas dinâmicos revelam padrões ocultos @Sistemas-Dinamicos onde o tempo mostra a geometria do caos." ⏳📈🌀🔄📊
 > Copyright © 2025 Prof. Ana Isabel C. 💙
