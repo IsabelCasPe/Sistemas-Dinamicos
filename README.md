@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/⚡-Turning_chaos_into_quant_insights_—_one_model_at_a_time._🌌-1E3A8A?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=0A3D91">
+  <img src="https://img.shields.io/badge/⚡-Turning_chaos_into_quant_insights_-_one_model_at_a_time._🌌-1E3A8A?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=0A3D91">
 </p>
 
 <p align="center">
