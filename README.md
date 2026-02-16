@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/📘_A_Descoberta_dos_Números_-1E3A8A?style=flat-square&logo=bookstack&logoColor=white&labelColor=0A3D91&color=1E90FF" alt="A Descoberta dos Números - Marcelo Vianna">
   </a>
   <br>
-  <sub><em>✨ Recomendado por <strong>@IsabelCasPe</strong> · Applied Mathematics ♾️ 💎</em></sub>  
+  <sub><em>✨ Recomendado por <strong>@IsabelCasPe</strong> · Applied Mathematics ♾️ 💎</em></sub>    
   <br>
   <img src="https://img.shields.io/badge/PT-🇧🇷-009B3A?style=flat-square&labelColor=002776"> 
   <img src="https://img.shields.io/badge/EN-🇬🇧-1E90FF?style=flat-square&labelColor=001F3F"> 
