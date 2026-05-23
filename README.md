@@ -46,7 +46,7 @@ Bem-vindo ao meu repositório de **Sistemas Dinâmicos**, onde exploro a beleza 
 - Economia e Finanças (ex.: modelos de ciclos econômicos, volatilidade de mercados)
 - Engenharia (ex.: controle de sistemas, circuitos elétricos)
 ---
-## Multimode Photon – 37 Quantum Degrees of Freedom
+## Multimode Photon - 37 Quantum Degrees of Freedom
 Representação animada de um fóton codificado simultaneamente em múltiplas dimensões (phase, color, spatial modes).
 Inclui:
 • efeitos de coerência, pulsos de intensidade
@@ -54,7 +54,7 @@ Inclui:
 • background estelar com ruído pseudoaleatório
 • overlay do Loki como “observer effect” felino
 
-Ideal para visualização educacional e experimentos de estética científica. @IsabelCasPe – Maths ∞ 😎
+Ideal para visualização educacional e experimentos de estética científica. @IsabelCasPe - Maths ∞ 😎
 - ![quantum_photon_37D](quantum_photon_37D.gif)
   
 ---
