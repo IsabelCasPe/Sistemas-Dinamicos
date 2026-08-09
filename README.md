@@ -176,11 +176,11 @@ Porque, no fim, **a matemática também é feita de encontros e alegria.** 💎�
 
 [📘 Comprar o livro na Amazon](https://www.amazon.com.br/Hist%C3%B3rias-matem%C3%A1tica-contagem-intelig%C3%AAncia-artificial/dp/6584835251/ref=asc_df_6584835251?mcid=e3dbe06b07db34b696b6f28a131935e0&tag=googleshopp00-20&linkCode=df0&hvadid=709857900180&hvpos=&hvnetw=g&hvrand=12780330106289602945&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9198796&hvtargid=pla-2310315834181&psc=1&hvocijid=12780330106289602945-6584835251-&hvexpln=0&language=pt_BR)
 
-![Lançamento “Histórias da matemática”](historia_da_maths03.jpeg)
+![Lançamento “Histórias da matemática”](historia_da_maths03.jpg)
 
-![Lançamento “Histórias da matemática”](historia_da_maths02.jpeg)
+![Lançamento “Histórias da matemática”](historia_da_maths02.jpg)
 
-![Lançamento “Histórias da matemática”](historia_da_maths01.jpeg)
+![Lançamento “Histórias da matemática”](historia_da_maths01.jpg)
 
 ## Henri Poincaré 
 - ![Entre lógica e intuição, Poincaré já sabia: é no instante criativo que o infinito sorri. ♾️💎](FresedoPoincare.png)
