@@ -158,7 +158,7 @@ Notebooks Jupyter que trazem os sistemas dinâmicos à vida com gráficos. 🎨
 
 ![Lançamento “A Descoberta dos Números”](dedicatoria.jpeg)
 
-📘 **A Descoberta dos Números** - *Marcelo Vianna*  
+📘 **A Descoberta dos Números** - *Marcelo Viana*  
 > “Os números não são apenas ferramentas: são janelas para entender o universo.”  
 
 ✨ No lançamento de *A Descoberta dos Números*, um brinde à beleza da Matemática - entre ideias, sorrisos e taças de champagne 🥂.  
@@ -169,6 +169,18 @@ Porque, no fim, **a matemática também é feita de encontros e alegria.** 💎�
 > 💙 @IsabelCasPe - *Applied Mathematics & Quantum Vibes* 🌌  
 
 [📘 Comprar o livro na Amazon](https://www.amazon.com.br/descoberta-dos-n%C3%BAmeros-aventura-matem%C3%A1tica/dp/6584835553)  
+
+---
+
+## Histórias da matemática - *Marcelo Viana* 
+
+[📘 Comprar o livro na Amazon](https://www.amazon.com.br/Hist%C3%B3rias-matem%C3%A1tica-contagem-intelig%C3%AAncia-artificial/dp/6584835251/ref=asc_df_6584835251?mcid=e3dbe06b07db34b696b6f28a131935e0&tag=googleshopp00-20&linkCode=df0&hvadid=709857900180&hvpos=&hvnetw=g&hvrand=12780330106289602945&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9198796&hvtargid=pla-2310315834181&psc=1&hvocijid=12780330106289602945-6584835251-&hvexpln=0&language=pt_BR)
+
+![Lançamento “Histórias da matemática”](historia_da_maths03.jpeg)
+
+![Lançamento “Histórias da matemática”](historia_da_maths02.jpeg)
+
+![Lançamento “Histórias da matemática”](historia_da_maths01.jpeg)
 
 ## Henri Poincaré 
 - ![Entre lógica e intuição, Poincaré já sabia: é no instante criativo que o infinito sorri. ♾️💎](FresedoPoincare.png)
