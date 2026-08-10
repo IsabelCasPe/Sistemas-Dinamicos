@@ -194,7 +194,7 @@ Porque, no fim, **a matemática também é feita de encontros e alegria.** 💎�
 2. **Notebooks**: Rode os `.ipynb` no Jupyter Notebook ou Google Colab pra interagir com as simulações.
 3. **Contribua**: Tem ideias? Abre uma issue ou pull request no GitHub! 
 
-## 📖 Referências
+# 📚 Referências em Sistemas Dinâmicos e Teoria do Caos
 
 Este repositório é inspirado no trabalho pioneiro de **Marcelo Viana**, que colocou o Brasil no mapa dos sistemas dinâmicos com contribuições em caos e teoria ergódica. Confira seus livros pra mergulhar mais fundo:
 
@@ -204,6 +204,33 @@ Este repositório é inspirado no trabalho pioneiro de **Marcelo Viana**, que co
 - Strogatz, S. H. (2014). *Nonlinear Dynamics and Chaos*. Westview Press.
 - Hirsch, M. W., Smale, S., & Devaney, R. L. (2013). *Differential Equations, Dynamical Systems, and an Introduction to Chaos*. Academic Press.
 - Hale, J. K. (2009). *Ordinary Differential Equations*. Dover Publications.
+  
+---
+## Uma coleção curada das referências mais robustas, didáticas e avançadas sobre Sistemas Dinâmicos, Teoria do Caos e abordagens baseadas em dados.
+
+## 🏛️ Os Clássicos Imortais (Fundamentação Teórica)
+
+*   **STROGATZ, Steven H.** *Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering*. 2. ed. CRC Press, 2014.
+    *   **Por que ler:** É o livro mais didático do planeta sobre o tema. Usa uma abordagem geométrica e intuitiva essencial para quem quer criar simulações visuais e numéricas.
+*   **HIRSCH, Morris W.; SMALE, Stephen; DEVANEY, Robert L.** *Differential Equations, Dynamical Systems, and an Introduction to Chaos*. 3. ed. Academic Press, 2012.
+    *   **Por que ler:** A bíblia matemática rigorosa. Excelente para entender a fundo a topologia dos retratos de fase, estabilidade de Lyapunov e sistemas lineares versus não lineares.
+*   **GLEICK, James.** *Chaos: Making a New Science*. 20th Anniversary ed. Penguin Books, 2008.
+    *   **Por que ler:** A maior obra de divulgação científica sobre o caos. Narra a história das descobertas de Lorenz, Feigenbaum e Mandelbrot, fornecendo um excelente panorama histórico e conceitual.
+
+## 🌪️ Teoria Moderna e Sistemas Discretos
+
+*   **DEVANEY, Robert L.** *An Introduction to Chaotic Dynamical Systems*. 3. ed. CRC Press, 2022.
+    *   **Por que ler:** Focado extensivamente em mapas discretos (como o mapa logístico) e na matemática por trás de fractais e bifurcações.
+*   **FELDMAN, David P.** *Chaos and Dynamical Systems*. Princeton University Press, 2019.
+    *   **Por que ler:** Uma introdução moderna, acessível e direta ao ponto. Ideal para desenvolvedores que buscam implementar algoritmos de sistemas complexos.
+
+## 💻 Data Science, Machine Learning e Computação
+
+*   **BRUNTON, Steven L.; KUTZ, J. Nathan.** *Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control*. 2. ed. Cambridge University Press, 2022.
+    *   **Por que ler:** Onde a física encontra a IA. Essencial para repositórios de código, pois aborda técnicas modernas como Dynamic Mode Decomposition (DMD) e SINDy (Sparse Identification of Non-linear Dynamics).
+*   **ALLIGOOD, Kathleen T.; SAUER, Tim D.; YORK, James A.** *Chaos: An Introduction to Dynamical Systems*. Springer, 1996.
+    *   **Por que ler:** Famoso pelas suas abordagens baseadas em computador, repleto de desafios algorítmicos e experimentos numéricos que combinam perfeitamente com repositórios de programação.
+
 
 ## 📬 Contato
 
