@@ -45,6 +45,22 @@ Bem-vindo ao meu repositório de **Sistemas Dinâmicos**, onde exploro a beleza 
 - Biologia (ex.: crescimento populacional, epidemiologia)
 - Economia e Finanças (ex.: modelos de ciclos econômicos, volatilidade de mercados)
 - Engenharia (ex.: controle de sistemas, circuitos elétricos)
+
+---
+# Navier-Stokes Vortex Dynamics
+A computational scientific visualization of incompressible flow dynamics, combining a two-dimensional pseudo-spectral Navier–Stokes simulation with a conceptual visualization of three-dimensional vortex stretching.
+
+## Technical Note
+
+A concise mathematical and numerical description of the
+Navier–Stokes Vortex Dynamics visualization.
+
+📄 **[Read the Technical Note - Navier–Stokes Vortex Dynamics](navier_stokes_v1_technical_note.pdf)**
+
+🎥 **[Watch the Full Visualization on YouTube](https://www.youtube.com/watch?v=X0_Y4cXIPeU)**
+
+© @IsabelCasPe – Maths ∞
+
 ---
 ## Multimode Photon - 37 Quantum Degrees of Freedom
 Representação animada de um fóton codificado simultaneamente em múltiplas dimensões (phase, color, spatial modes).
