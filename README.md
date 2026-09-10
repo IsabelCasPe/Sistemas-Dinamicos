@@ -59,7 +59,7 @@ Navier–Stokes Vortex Dynamics visualization.
 
 🎥 **[Watch the Full Visualization on YouTube](https://www.youtube.com/watch?v=X0_Y4cXIPeU)**
 
-© @IsabelCasPe – Maths ∞
+© @IsabelCasPe - Maths ∞
 
 ---
 ## Multimode Photon - 37 Quantum Degrees of Freedom
