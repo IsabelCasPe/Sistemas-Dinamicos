@@ -58,17 +58,7 @@ Bem-vindo ao meu repositório de **Sistemas Dinâmicos**, onde exploro a beleza 
 
 ### Mathematical Model
 
-The visualization is based on the incompressible Navier–Stokes equations,
-
-\[
-\frac{\partial \mathbf{u}}{\partial t}
-+(\mathbf{u}\cdot\nabla)\mathbf{u}
-=
--\nabla p
-+\nu\nabla^2\mathbf{u},
-\qquad
-\nabla\cdot\mathbf{u}=0.
-\]
+The visualization is based on the incompressible Navier–Stokes equations.
 
 The numerical dynamics are formulated through the two-dimensional vorticity equation and evolved using a pseudo-spectral approach. The visualization follows the emergence and interaction of vortical structures while connecting numerical simulation with the geometry of fluid motion.
 
