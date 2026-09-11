@@ -47,17 +47,35 @@ Bem-vindo ao meu repositório de **Sistemas Dinâmicos**, onde exploro a beleza 
 - Engenharia (ex.: controle de sistemas, circuitos elétricos)
 
 ---
-# Navier-Stokes Vortex Dynamics
-A computational scientific visualization of incompressible flow dynamics, combining a two-dimensional pseudo-spectral Navier–Stokes simulation with a conceptual visualization of three-dimensional vortex stretching.
 
-## Technical Note
+## 🌊 Navier–Stokes Vortex Dynamics
 
-A concise mathematical and numerical description of the
-Navier–Stokes Vortex Dynamics visualization.
+![Navier–Stokes Vortex Dynamics](Navier_Stokes.png)
 
-📄 **[Read the Technical Note - Navier–Stokes Vortex Dynamics](navier_stokes_v1_technical_note.pdf)**
+[![Watch on YouTube](https://img.shields.io/badge/▶_Watch-Navier--Stokes_Vortex_Dynamics-D4AF37?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=X0_Y4cXIPeU)
 
-🎥 **[Watch the Full Visualization on YouTube](https://www.youtube.com/watch?v=X0_Y4cXIPeU)**
+*A numerical and dynamic exploration of incompressible Navier–Stokes flow, vorticity evolution, and vortex dynamics — where fluid motion becomes mathematical structure.* 🎥
+
+### Mathematical Model
+
+The visualization is based on the incompressible Navier–Stokes equations,
+
+\[
+\frac{\partial \mathbf{u}}{\partial t}
++(\mathbf{u}\cdot\nabla)\mathbf{u}
+=
+-\nabla p
++\nu\nabla^2\mathbf{u},
+\qquad
+\nabla\cdot\mathbf{u}=0.
+\]
+
+The numerical dynamics are formulated through the two-dimensional vorticity equation and evolved using a pseudo-spectral approach. The visualization follows the emergence and interaction of vortical structures while connecting numerical simulation with the geometry of fluid motion.
+
+> **Scientific note:** The numerical flow represents a computational study of two-dimensional incompressible Navier–Stokes dynamics. Any three-dimensional vortex-stretching sequence used in the cinematic visualization is conceptual and should not be interpreted as evidence of finite-time singularity or as a proof concerning the Navier–Stokes existence and smoothness problem.
+
+📄 [**Read the Technical Note - Navier–Stokes Vortex Dynamics**](https://github.com/IsabelCasPe/Sistemas-Dinamicos/blob/main/navier_stokes_v1_technical_note.pdf)
+
 
 © @IsabelCasPe 
 
