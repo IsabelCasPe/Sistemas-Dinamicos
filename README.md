@@ -59,7 +59,16 @@ Navier–Stokes Vortex Dynamics visualization.
 
 🎥 **[Watch the Full Visualization on YouTube](https://www.youtube.com/watch?v=X0_Y4cXIPeU)**
 
-© @IsabelCasPe - Maths ∞
+© @IsabelCasPe 
+
+----
+### 🌌 Riemann Hypothesis Dynamics - The Critical Line
+
+![Riemann Hypothesis Dynamics](riemannZ.png)
+
+[![Watch on YouTube](https://img.shields.io/badge/▶_Watch-Riemann_Hypothesis_Dynamics-D4AF37?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=YNtHmHMpXp0)
+
+*An exploration of the Riemann zeta function, the critical strip, and the mysterious line $\mathrm{Re}(s)=\frac{1}{2}$ through mathematical analysis, numerical computation, and dynamic scientific visualization.*
 
 ---
 ## Multimode Photon - 37 Quantum Degrees of Freedom
