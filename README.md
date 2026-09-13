@@ -219,6 +219,18 @@ Porque, no fim, **a matemática também é feita de encontros e alegria.** 💎�
 
 ![Lançamento “Histórias da matemática”](historia_da_maths01.jpg)
 
+---
+### Mathematical  ∞ Colóquio do IME USP
+
+## Artur Avila - Fields Medal 2014
+
+A memorable encounter with Artur Avila, whose work in dynamical systems has been a source of mathematical inspiration.
+
+*The mathematics is real. The encounter is real. The IME-USP renovation, however, is courtesy of AI.* 😎∞
+![Ana and Artur](Ana_Artur_no_IME.png)
+
+---
+
 ## Henri Poincaré 
 - ![Entre lógica e intuição, Poincaré já sabia: é no instante criativo que o infinito sorri. ♾️💎](FresedoPoincare.png)
   
